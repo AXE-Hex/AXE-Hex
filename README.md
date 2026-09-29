@@ -18,11 +18,23 @@
 
 ```text
 ┌─ AXE PROFILE
+├─ NAME        :: AXE
+├─ USERNAME    :: @AXE-Hex
 ├─ STATUS      :: ONLINE
 ├─ DOMAIN      :: Cybersecurity / DFIR / AI Automation
+├─ SYSTEMS     :: Fedora / Kali Linux / Windows
+├─ STACK       :: Dart / Python / TypeScript / SQL / CSS
 ├─ PLATFORM    :: Linux-Centered Workflows
 └─ APPROACH    :: Build • Analyze • Secure • Automate
 ```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRIMARY%20FOCUS-DFIR-0ea5e9?style=flat-square" alt="DFIR" />
+<img src="https://img.shields.io/badge/AI-Security%20Automation-111827?style=flat-square" alt="AI Security Automation" />
+<img src="https://img.shields.io/badge/LINUX-Fedora%20%2F%20Kali-334155?style=flat-square" alt="Linux" />
+
+</div>
 
 ## /about_me
 
