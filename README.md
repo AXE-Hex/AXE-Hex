@@ -1,33 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0ea5e9&height=220&section=header&text=AXE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20DFIR%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=18" alt="AXE header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,55:0ea5e9,100:38bdf8&height=250&section=header&text=AXE&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20DFIR%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=20" alt="AXE cyber header" />
 
-<a href="https://github.com/AXE-Hex">
-  <img src="https://img.shields.io/badge/GitHub-AXE--Hex-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=AXE-Hex&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/AXE-Hex?label=FOLLOWERS&style=for-the-badge&logo=github&color=0f172a" alt="Followers" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+AXE+SYSTEM+ONLINE;%3E+Digital+Forensics+%26+Incident+Response;%3E+AI-Assisted+Cybersecurity+Automation;%3E+Linux+%26+Secure+Software+Engineering" alt="Cyber typing intro" />
+</p>
 
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Digital+Forensics+%26+Incident+Response;AI-Assisted+Cybersecurity+Automation;Linux+%26+Network+Security;Secure+Software+Engineering" alt="Focus areas" />
+<p>
+  <a href="https://github.com/AXE-Hex"><img src="https://img.shields.io/badge/GitHub-AXE--Hex-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AXE-Hex&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AXE-Hex?label=FOLLOWERS&style=for-the-badge&logo=github&color=0f172a" alt="Followers" />
+</p>
 
 </div>
 
 ---
 
-## About
+```text
+┌─ AXE PROFILE
+├─ STATUS      :: ONLINE
+├─ DOMAIN      :: Cybersecurity / DFIR / AI Automation
+├─ PLATFORM    :: Linux-Centered Workflows
+└─ APPROACH    :: Build • Analyze • Secure • Automate
+```
+
+## /about_me
 
 I build and study systems around **Cybersecurity**, **Digital Forensics & Incident Response (DFIR)**, **AI-assisted security automation**, **Linux**, **network security**, and **secure software engineering**.
 
-My projects span multi-platform applications, web systems, local AI tooling, security labs, and backend infrastructure.
+My work focuses on practical systems: multi-platform applications, web platforms, local AI tooling, backend infrastructure, and hands-on security workflows.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Security
-
+### Security Focus
 - Digital Forensics & Incident Response
 - Network analysis
 - Detection workflows
@@ -37,8 +44,7 @@ My projects span multi-platform applications, web systems, local AI tooling, sec
 </td>
 <td width="50%" valign="top">
 
-### Engineering
-
+### Engineering Focus
 - Flutter applications
 - Next.js / React web systems
 - FastAPI backends
@@ -51,7 +57,7 @@ My projects span multi-platform applications, web systems, local AI tooling, sec
 
 ---
 
-## Featured Work
+## /featured_work
 
 <table>
 <tr>
@@ -59,9 +65,9 @@ My projects span multi-platform applications, web systems, local AI tooling, sec
 
 ### [Horus](https://github.com/AXE-Hex/Horus)
 
-A modern university platform built with **Flutter + Supabase**.
+**Modern university platform** built with **Flutter + Supabase**.
 
-**Built around**
+**Core areas**
 - Academic workflows
 - Role-based access
 - Student services
@@ -73,9 +79,9 @@ A modern university platform built with **Flutter + Supabase**.
 
 ### [REVORA MOTO](https://github.com/AXE-Hex/REVORA-MOTO)
 
-A motorcycle e-commerce platform built with **Next.js + TypeScript + Supabase + PostgreSQL**.
+**Motorcycle e-commerce platform** built with **Next.js + TypeScript + Supabase + PostgreSQL**.
 
-**Built around**
+**Core areas**
 - Arabic / English UI
 - Store and admin flows
 - Orders and bookings
@@ -87,9 +93,9 @@ A motorcycle e-commerce platform built with **Next.js + TypeScript + Supabase + 
 
 ### [AI Chat Local](https://github.com/AXE-Hex/ai_chat)
 
-A local AI desktop stack built with **Flutter + FastAPI + Qwen**.
+**Local AI desktop stack** built with **Flutter + FastAPI + Qwen**.
 
-**Built around**
+**Core areas**
 - Local model execution
 - Streaming generation
 - Conversation storage
@@ -102,7 +108,7 @@ A local AI desktop stack built with **Flutter + FastAPI + Qwen**.
 
 ---
 
-## Languages I Use
+## /languages_i_use
 
 <div align="center">
 
@@ -116,12 +122,11 @@ A local AI desktop stack built with **Flutter + FastAPI + Qwen**.
 
 ---
 
-## Tools & Technologies I Have Worked With
+## /tools_and_technologies
 
 <div align="center">
 
 ### Application & Backend
-
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -132,13 +137,11 @@ A local AI desktop stack built with **Flutter + FastAPI + Qwen**.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 ### Systems
-
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
 
 ### Security & DFIR
-
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
 <img src="https://img.shields.io/badge/Zeek-777777?style=flat-square" alt="Zeek" />
 <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square" alt="Suricata" />
@@ -150,21 +153,21 @@ A local AI desktop stack built with **Flutter + FastAPI + Qwen**.
 
 ---
 
-## Current Direction
+## /current_direction
 
 ```text
-Cybersecurity
+CYBERSECURITY
 ├── DFIR
 ├── Incident response
 ├── Network analysis
 └── Security automation
 
-Artificial Intelligence
+AI
 ├── Local LLMs
 ├── AI-assisted analysis
 └── Security-focused automation
 
-Software Engineering
+ENGINEERING
 ├── Flutter
 ├── Next.js / React
 ├── FastAPI
@@ -173,7 +176,7 @@ Software Engineering
 
 ---
 
-## GitHub Activity
+## /github_activity
 
 <div align="center">
 
@@ -188,14 +191,22 @@ Software Engineering
 
 ---
 
+## /principles
+
+> **Build securely. Analyze deeply. Automate carefully. Keep learning.**
+
+I prefer systems that are **maintainable, measurable, security-aware, and useful in real workflows**.
+
+---
+
 <div align="center">
 
-### Build. Analyze. Secure. Automate.
+### BUILD • ANALYZE • SECURE • AUTOMATE
 
 <sub>Cybersecurity · DFIR · AI · Linux · Software Engineering</sub>
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,55:0f172a,100:020617&height=110&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,45:0f172a,100:020617&height=120&section=footer" alt="AXE footer" />
 
 </div>
