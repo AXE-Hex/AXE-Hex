@@ -1,43 +1,43 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,32:0f172a,68:0ea5e9,100:38bdf8&height=235&section=header&text=AXE&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20DFIR%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Secure%20Software&descAlignY=58&descSize=18" alt="AXE header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,38:0f172a,72:111827,100:0ea5e9&height=220&section=header&text=AXE&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20DFIR%20%E2%80%A2%20Secure%20Software&descAlignY=59&descSize=18" alt="AXE header" />
 
 ### Founder & President of **GT**
 
-<sub>Building systems. Studying threats. Keeping the interesting parts off the surface.</sub>
+<sub>Cybersecurity · Digital Forensics · AI Development · Systems Engineering</sub>
 
 <br><br>
 
 <a href="https://github.com/AXE-Hex">
-  <img src="https://img.shields.io/badge/GitHub-AXE--Hex-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/@AXE--Hex-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-<img src="https://komarev.com/ghpvc/?username=AXE-Hex&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=AXE-Hex&label=profile%20views&style=flat-square&color=0ea5e9" alt="Profile views">
 
 </div>
 
 ---
 
-## /identity
+## Identity
 
 ```text
 AXE
-├── Role        :: Founder & President — GT
-├── Focus       :: Cybersecurity / DFIR
-├── Engineering :: Secure Software / Systems
-├── AI          :: Developer
-├── Environment :: Linux-first
-└── Mode        :: Build • Analyze • Break Down • Improve
+├─ Founder & President  · GT
+├─ Primary Focus        · Cybersecurity / DFIR
+├─ Engineering          · Secure Software / Systems
+├─ AI                   · Developer
+├─ Environment          · Linux-first
+└─ Operating Principle  · Evidence over assumptions
 ```
 
-I work across **cybersecurity**, **digital forensics & incident response**, **software engineering**, and **AI development**.
+I work at the intersection of **cybersecurity**, **digital forensics & incident response**, **software engineering**, and **AI development**.
 
-Most of what I build sits somewhere between security tooling, application platforms, backend systems, automation, and experiments that are more useful when they stay practical.
+The projects I care about usually have one thing in common: they sit close to real systems, real constraints, and real failure modes.
 
-I prefer systems that are understandable under pressure, measurable when they fail, and difficult to misuse by accident.
+Some work is public. Some is private. The useful parts tend to speak for themselves.
 
 ---
 
-## /focus
+## Core Focus
 
 <table>
 <tr>
@@ -46,12 +46,12 @@ I prefer systems that are understandable under pressure, measurable when they fa
 ### Security
 
 - Digital Forensics & Incident Response
-- Network analysis
 - Incident investigation
+- Network analysis
 - Linux security workflows
 - Detection and response concepts
+- Authentication and authorization boundaries
 - Secure architecture
-- Access-control design
 
 </td>
 <td width="50%" valign="top">
@@ -72,43 +72,47 @@ I prefer systems that are understandable under pressure, measurable when they fa
 
 ---
 
-## /selected_work
+## Flagship Project
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top">
 
-### Horus
+### Horus — University Operating Platform
 
-**University operating platform**
+A large-scale **Flutter + Supabase** platform designed around academic operations, identity, authorization, institutional data, communication, and administrative workflows.
 
-A large Flutter + Supabase system spanning academic workflows, identity, permissions, institutional data, communication, and administrative operations.
+The system is built around backend authority, typed boundaries, RBAC/RLS, versioned migrations, CI/CD, and production-oriented engineering rules.
 
-`Flutter` `Supabase` `PostgreSQL` `RLS` `RBAC`
+**Stack**  
+`Flutter` · `Dart` · `Riverpod` · `Supabase` · `PostgreSQL` · `RLS` · `RBAC` · `GitHub Actions`
 
-<sub>Private repository.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-### [REVORA MOTO](https://github.com/AXE-Hex/REVORA-MOTO)
-
-**Motorcycle commerce platform**
-
-A bilingual web platform covering products, orders, bookings, comparisons, account flows, administration, and database-backed business operations.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+<sub>Private repository · Developed and led by Axe under GT.</sub>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
-### [AI Chat Local](https://github.com/AXE-Hex/ai_chat)
+### Selected Work
 
-**Local AI application stack**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A local-first AI interface built around a Flutter client, Python backend services, model execution, streaming, and runtime experimentation.
+#### [REVORA MOTO](https://github.com/AXE-Hex/REVORA-MOTO)
 
-`Flutter` `Python` `FastAPI` `Local LLMs`
+A bilingual motorcycle commerce platform covering catalog, comparison, reservations, orders, account flows, administration, and database-backed operations.
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### [AI Chat Local](https://github.com/AXE-Hex/ai_chat)
+
+A local-first AI application stack built around a Flutter client, Python services, model execution, streaming responses, and runtime experimentation.
+
+`Flutter` · `Python` · `FastAPI` · `Local LLMs`
 
 </td>
 </tr>
@@ -116,19 +120,17 @@ A local-first AI interface built around a Flutter client, Python backend service
 
 ---
 
-## /toolkit
+## Technical Stack
 
 <div align="center">
-
-### Languages
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 
-### Application & Backend
+<br>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -137,7 +139,7 @@ A local-first AI interface built around a Flutter client, Python backend service
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 
-### Systems
+<br>
 
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora">
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
@@ -147,69 +149,64 @@ A local-first AI interface built around a Flutter client, Python backend service
 
 ---
 
-## /security_stack
+## Security Methodology
 
 ```text
 DFIR
-├── Memory / artifact analysis
-├── Timeline reasoning
-├── Evidence-oriented workflows
-└── Incident investigation
+├─ Evidence collection
+├─ Artifact / memory analysis
+├─ Timeline reasoning
+└─ Incident investigation
 
 NETWORK
-├── Discovery
-├── Traffic analysis
-├── Wireless experimentation
-└── Protocol-level troubleshooting
+├─ Discovery
+├─ Traffic analysis
+├─ Wireless experimentation
+└─ Protocol-level troubleshooting
 
 PLATFORM SECURITY
-├── Authentication boundaries
-├── RBAC / RLS
-├── Least privilege
-└── Secure data flows
+├─ Authentication boundaries
+├─ RBAC / RLS
+├─ Least privilege
+└─ Secure data flows
 ```
 
-Tools vary by task. I care more about **methodology, evidence, and repeatability** than collecting tool names.
+Tools change. Methodology matters more.
 
 ---
 
-## /current_direction
+## Current Direction
 
 ```text
 01  Deepen DFIR and incident-response practice
 02  Build security-focused software with stronger architecture
-03  Improve AI development skills through local and applied systems
+03  Improve AI development through local and applied systems
 04  Keep Linux as the primary engineering environment
 05  Turn experiments into maintainable tools
 ```
 
-Some projects are public. Some are private. Some are still becoming what they are supposed to be.
-
 ---
 
-## /github
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AXE-Hex&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub stats">
-<img width="49%" src="https://streak-stats.demolab.com?user=AXE-Hex&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak">
+<img width="58%" src="https://github-readme-stats.vercel.app/api?username=AXE-Hex&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8&hide_rank=false" alt="GitHub stats">
 
 </div>
 
 ---
 
-## /principles
+## Principles
 
 > **Build with intent. Investigate with evidence. Secure the boundary. Keep the system understandable.**
 
-I value:
-
-- clear architecture over accidental complexity;
-- backend authority over client assumptions;
-- evidence over guesses;
-- automation that improves repeatability;
-- security that remains useful in real workflows;
-- learning by building things that can fail in interesting ways.
+- Architecture before accidental complexity.
+- Backend authority before client assumptions.
+- Evidence before guesses.
+- Repeatability before one-off fixes.
+- Security that remains useful in real workflows.
+- Learning by building systems that can fail in interesting ways.
 
 ---
 
@@ -217,12 +214,12 @@ I value:
 
 ### AXE
 
-**Cybersecurity · DFIR · AI Developer · Secure Software**
+**Cybersecurity · DFIR · Secure Software**
 
-<sub>Founder & President — GT</sub>
+<sub>AI Developer · Founder & President — GT</sub>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,45:0f172a,100:020617&height=115&section=footer" alt="AXE footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,48:0f172a,100:020617&height=105&section=footer" alt="AXE footer">
 
 </div>
